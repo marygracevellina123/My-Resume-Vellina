@@ -1,0 +1,160 @@
+body {
+  margin: auto;
+  background-color: lightgray;
+
+}
+
+#title {
+  margin-left: 3%;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  margin-left: 3%;
+
+}
+
+.column1 {
+  float: left;
+  width: 32%;
+  margin-left: 1%;
+
+
+
+}
+
+.column2 {
+  float: left;
+  width: 29%;
+
+
+}
+
+.column3 {
+  float: left;
+  width: 37%;
+
+
+
+}
+
+.column5 {
+  float: left;
+  width: 49%;
+  margin-left: 1%;
+
+
+
+}
+
+.column6 {
+  float: left;
+  width: 49%;
+  margin-left: 1%;
+
+
+
+}
+
+hr {
+  height: 1.5px;
+  background-color: purple;
+}
+
+.background {
+  width: 65%;
+  background-color: white;
+  border: solid purple 1px;
+  margin-left: 16%;
+
+
+}
+
+img {
+  width: 84%;
+  margin-left: 5%;
+
+}
+
+.course {
+  color: white;
+  font-size: 1.1vw;
+  font-family: 'Times New Roman';
+  margin-left: -3%;
+}
+
+h1 {
+  color: white;
+  margin-left: 4%;
+  font-size: 2vw;
+}
+
+h4 {
+  color: white;
+  margin-left: 4%;
+  font-size:  .9vw;
+}
+
+.link {
+  margin-left: 4%;
+  color: skyblue;
+  font-size:  .9vw;
+}
+
+.obj {
+  margin-left: 4%;
+  margin-right: 3%;
+  font-size: 1.1vw;
+  font-family: Verdana;
+  text-align: justify;
+}
+
+.stuff {
+  display: inline-block;
+  width: 98%;
+  background-color: #E0B0FF;
+  margin-left: 0.9%;
+  border: solid purple 1px;
+  margin-top: 0.9%;
+  margin-bottom: 0.8%;
+
+}
+
+.intro {
+  background-color: purple;
+  height: 36vh;
+}
+
+p,
+li {
+  font-family: 'Cormorant Garamond';
+  font-size: 1vw;
+}
+
+.head3 {
+  margin-left: 20%;
+
+
+
+}
+
+.head2 {
+  margin-left: 10%;
+  font-size: 1.5vw;
+}
+
+.head {
+  margin-left: 30%;
+  font-size: 1.5vw;
+
+}
+
+@media only screen and (max-width: 430px) {
+
+  .intro {
+    background-color: purple;
+    height: 16vh;
+  }
+
+}
